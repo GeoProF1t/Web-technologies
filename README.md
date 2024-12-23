@@ -35,3 +35,7 @@
 ![http](Scr8.png)
 
 ![http](Scr9.png)
+
+# 4. Создайте прототип низкой детализации.
+
+![http](Wireframe.png)
